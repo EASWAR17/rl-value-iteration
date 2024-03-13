@@ -83,9 +83,12 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
-![](op1.png)
-![](op2.png)
-![](op3.png)
+![image](https://github.com/EASWAR17/rl-value-iteration/assets/94154683/b4b6fe11-2031-41d0-864b-18a4d09d093a)
+
+![image](https://github.com/EASWAR17/rl-value-iteration/assets/94154683/ef1a4dae-49df-4e3c-a39b-cafd1ecbca0b)
+
+![image](https://github.com/EASWAR17/rl-value-iteration/assets/94154683/5af518e4-2173-4858-b17a-0e618471aca4)
+
 
 ## RESULT:
 
